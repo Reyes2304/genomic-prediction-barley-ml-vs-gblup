@@ -39,7 +39,8 @@ Este repositorio contiene los notebooks y artefactos necesarios para reproducir 
 
 El archivo `merged_all_mind0.20_g0.10_mac1_nomaf_pruned_raw.raw` no se incluye en este repo para evitar problemas de subida por tamano.
 
-Descarga (OneDrive): [archivo .raw](https://1drv.ms/i/c/23a3a5fd50a4290f/IQDael9XlGW-SqilTJUJRN40AdvV60Xmc8Zh07qFjwVto8A?e=xrgLUR)
+Descarga (OneDrive): [archivo .raw](https://1drv.ms/i/c/23a3a5fd50a4290f/IQDael9XlGW-SqilTJUJRN40AdqGIngDlOT81TRdVvzHA8c?e=vcNBN2)
+
 
 Pasos:
 1. Descarga el fichero desde el enlace.
