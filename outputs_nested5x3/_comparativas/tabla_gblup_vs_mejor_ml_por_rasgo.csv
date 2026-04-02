@@ -1,0 +1,8 @@
+Rasgo,Mejor modelo ML,Representación,Pearson r,valor GBLUP
+lodging,ridge,snp_direct,0.877,0.872
+plant_height,elasticnet,snp_direct,0.811,0.816
+heading_date,xgboost,snp_direct,0.802,0.797
+blumeria_graminis,xgboost,snp_direct,0.749,0.763
+puccinia_hordei,xgboost,snp_direct,0.734,0.755
+ramularia_collo_cygni,svr_rbf,pca20,0.362,0.385
+rhynchosporium,xgboost,snp_direct,0.286,0.274

@@ -1,0 +1,13 @@
+run_name,model,winner_metric,wins
+54_snp_direct_gblup_legacy::snp_blocks_notebook_nested5x3_gblup,gblup,pearson_r,4
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,xgboost,pearson_r,2
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,ridge,pearson_r,1
+54_snp_direct_gblup_legacy::snp_blocks_notebook_nested5x3_gblup,gblup,r2,4
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,xgboost,r2,2
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,ridge,r2,1
+54_snp_direct_gblup_legacy::snp_blocks_notebook_nested5x3_gblup,gblup,rmse,4
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,xgboost,rmse,2
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,ridge,rmse,1
+54_snp_direct_gblup_legacy::snp_blocks_notebook_nested5x3_gblup,gblup,score_composite,4
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,xgboost,score_composite,2
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,ridge,score_composite,1

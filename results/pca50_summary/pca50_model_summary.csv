@@ -1,0 +1,10 @@
+model,mean_r,mean_r2,best_trait,best_r,worst_trait,worst_r
+random_forest,0.636,0.454,lodging,0.873,rhynchosporium,0.218
+gradient_boosting,0.627,0.453,lodging,0.872,rhynchosporium,0.179
+xgboost,0.622,0.433,lodging,0.868,rhynchosporium,0.199
+elastic_net,0.622,0.44,lodging,0.866,rhynchosporium,0.187
+svr_rbf,0.621,0.443,lodging,0.866,rhynchosporium,0.169
+ridge,0.617,0.431,lodging,0.849,rhynchosporium,0.21
+adaboost,0.593,0.404,lodging,0.854,rhynchosporium,0.155
+svr_linear,0.586,0.361,lodging,0.839,rhynchosporium,0.19
+decision_tree,0.535,0.338,lodging,0.808,rhynchosporium,0.071

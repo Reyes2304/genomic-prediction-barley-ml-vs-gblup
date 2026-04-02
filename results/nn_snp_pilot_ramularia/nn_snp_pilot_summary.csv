@@ -1,0 +1,2 @@
+trait,model_name,learning_rate,batch_size,n_folds,pearson_r_mean,pearson_r_std,r2_mean,r2_std,rmse_mean,rmse_std,mae_mean,mae_std,best_epoch_mean
+ramularia_collo_cygni,mlp_a,0.001,32,5,0.34977550418188147,0.07545794779316513,0.07780300107928559,0.055216752444311276,1.0743334880355564,0.054771498759465236,0.8302022487730593,0.04542783915267568,47.0

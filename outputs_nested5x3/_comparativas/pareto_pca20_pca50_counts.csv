@@ -1,0 +1,15 @@
+trait,representation,pareto_flag,n_points
+blumeria_graminis,pca20,dominated,9
+blumeria_graminis,pca50,dominated,9
+heading_date,pca20,dominated,9
+heading_date,pca50,dominated,9
+lodging,pca20,dominated,9
+lodging,pca50,dominated,9
+plant_height,pca20,dominated,9
+plant_height,pca50,dominated,9
+puccinia_hordei,pca20,dominated,9
+puccinia_hordei,pca50,dominated,9
+ramularia_collo_cygni,pca20,dominated,9
+ramularia_collo_cygni,pca50,dominated,9
+rhynchosporium,pca20,dominated,9
+rhynchosporium,pca50,dominated,9

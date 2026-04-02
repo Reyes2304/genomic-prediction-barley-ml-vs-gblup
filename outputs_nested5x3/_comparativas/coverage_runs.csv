@@ -1,0 +1,11 @@
+run_name,has_summary,has_folds,has_preds,has_errors,n_summary,n_folds,n_preds,n_errors
+10_pca20_svr_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,14,70,15540,0
+11_pca50_svr_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,14,70,15540,0
+20_pca20_tree_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,7,35,7770,0
+21_pca50_tree_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,7,35,7770,0
+40_pca20_ensemble_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,21,105,23310,0
+40_pca50_ensemble_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,21,105,23310,0
+45_pca20_blocks_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,21,105,23310,0
+45_pca50_blocks_-_estructura_unificada_+_nested_cv_5x3,True,True,True,False,21,105,23310,0
+53_snp_direct_legacy::snp_blocks_notebook_nested5x3,True,False,False,False,21,0,0,0
+54_snp_direct_gblup_legacy::snp_blocks_notebook_nested5x3_gblup,True,False,False,False,7,0,0,0

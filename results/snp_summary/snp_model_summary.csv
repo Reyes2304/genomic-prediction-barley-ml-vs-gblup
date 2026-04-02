@@ -1,0 +1,4 @@
+model,mean_r,mean_r2,best_trait,best_r,worst_trait,worst_r
+xgboost,0.656,0.476,lodging,0.874,rhynchosporium,0.286
+ridge,0.65,0.466,lodging,0.877,rhynchosporium,0.252
+elasticnet,0.624,0.427,lodging,0.871,rhynchosporium,0.171

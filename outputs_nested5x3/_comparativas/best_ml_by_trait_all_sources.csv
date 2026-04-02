@@ -1,0 +1,8 @@
+trait,best_ml_model,best_ml_representation,best_ml_run,best_ml_r,best_ml_r2,best_ml_rmse
+lodging,ridge,snp_direct,53_snp_direct_legacy::snp_blocks_notebook_nested5x3,0.8773082887245263,0.7686054125306541,0.7614187900438776
+plant_height,elasticnet,snp_direct,53_snp_direct_legacy::snp_blocks_notebook_nested5x3,0.8106606698220638,0.6562167497007332,8.402719838015537
+heading_date,xgboost,snp_direct,53_snp_direct_legacy::snp_blocks_notebook_nested5x3,0.8024063197835223,0.6433398493062897,18.977351224782197
+blumeria_graminis,xgboost,snp_direct,53_snp_direct_legacy::snp_blocks_notebook_nested5x3,0.7486903640637232,0.5604206877118649,0.7717045985656462
+puccinia_hordei,xgboost,snp_direct,53_snp_direct_legacy::snp_blocks_notebook_nested5x3,0.7341394465828697,0.5383113406680755,0.807653921917471
+ramularia_collo_cygni,svr_rbf,pca20,10_pca20_svr_-_estructura_unificada_+_nested_cv_5x3,0.3617207838327954,0.1282924795408779,1.0466269896979128
+rhynchosporium,xgboost,snp_direct,53_snp_direct_legacy::snp_blocks_notebook_nested5x3,0.2856545604784612,0.0704011753348398,0.8824664254264136

@@ -1,0 +1,5 @@
+model,mean_r
+gblup,0.666
+xgboost,0.656
+ridge,0.65
+elasticnet,0.624

@@ -1,0 +1,8 @@
+model,trait,params,n_individuos,n_snps,n_configs_model,fits_por_config,fits_ejecutados_config,pearson_r,pearson_p,rmse,r2,fit_time_s,cv
+elasticnet,blumeria_graminis,"alpha=1.0, l1_ratio=0.05",1110,61139,16,15,245,0.7449571893048177,5.242560097325403e-197,0.781612909218072,0.5490602537740206,1699.8133888000011,"NestedKFold_manual(outer=5, inner=3, random_state=42)"
+elasticnet,heading_date,"alpha=1.0, l1_ratio=0.1",1110,61139,16,15,245,0.8015518122538496,1.0005538532017346e-249,19.005047776562524,0.642298032180191,2712.6533759999984,"NestedKFold_manual(outer=5, inner=3, random_state=42)"
+elasticnet,lodging,"alpha=0.1, l1_ratio=0.05",1110,61139,16,15,245,0.8747844058415213,0.0,0.7682764642238677,0.764418558859583,1809.6487744999995,"NestedKFold_manual(outer=5, inner=3, random_state=42)"
+elasticnet,plant_height,"alpha=0.01, l1_ratio=0.05",1110,61139,16,15,245,0.8108454680998166,4.9340195114309635e-260,8.403866876875691,0.6561228849355234,2303.9763607999994,"NestedKFold_manual(outer=5, inner=3, random_state=42)"
+elasticnet,puccinia_hordei,"alpha=1.0, l1_ratio=0.05",1110,61139,16,15,245,0.7127395743046537,7.517172270300213e-173,0.8384557533909366,0.5024246094288785,1720.2143436000006,"NestedKFold_manual(outer=5, inner=3, random_state=42)"
+elasticnet,ramularia_collo_cygni,"alpha=1.0, l1_ratio=0.05",1110,61139,16,15,245,0.3379155712980768,4.734711971479725e-31,1.0551259949360832,0.11407781212552459,1840.7373931000002,"NestedKFold_manual(outer=5, inner=3, random_state=42)"
+elasticnet,rhynchosporium,"alpha=1.0, l1_ratio=0.1",1110,61139,16,15,245,0.17176455543325744,8.460075097512246e-09,0.9043158536026856,0.023798494982794294,1825.2272511999981,"NestedKFold_manual(outer=5, inner=3, random_state=42)"
